@@ -8,9 +8,9 @@
 Can be found on telegram as [Hazel](https://t.me/Misstezza_bot)
 ).
 
-The Support group can be reached out to at [Hazel Support](https://t.me/TG_BotZ), where you can ask for help about [Ξ L I Z Λ B Ξ TH](https://t.me/Misstezza_bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [Hazel Support](https://t.me/HazelSupport), where you can ask for help about [Hazel](https://t.me/Miss_HazelBot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
-News channel as at [Hazel](https://t.me/TG_BotZ) 
+News channel as at [Hazel](https://t.me/HazelSupport) 
 
 ## How to setup/deploy.
 
@@ -18,10 +18,7 @@ News channel as at [Hazel](https://t.me/TG_BotZ)
  - Edit any mentions of @TG_BotZ to your own support chat
  - Your code must be open source and a link to your fork's repository must be there in the start reply of the bot [See this](https://github.com/Kidiloskahyper45/)
 )
- - Lastly, if you are found to run this repo without the code being open sourced or the repository link not mentioned in the bot, we will push a gban for you in our network because of being in violation of the license, you are free to be a dick and not respect the open source code (we do not mind) but we will not be having you around our chats
- - This repo does not come with technical support, so DO NOT come to us asking help about deploy/console errors
-
-<details>
+ - 
   <summary>Steps to deploy on Heroku !! </summary>
 
 ```
