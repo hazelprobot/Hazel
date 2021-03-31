@@ -17,8 +17,8 @@ News channel as at [Hazel](https://t.me/HazelSupport)
 
 
 ## Credits
-The bot is based on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
-This repo was just revamped to suit an Anime-centric community. All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
+The bot is based on Anime and original Bot And Worked By  [PaulSonOfLars](https://github.com/PaulSonOfLars)
+This repo was just revamped to suit an Anime-centric community. All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible. Thanks to him !
 
 ALSO SOME PLUGS ND BASE IS BECAUSE OF THIS [Misstezza_bot](https://github.com/kidiloskahyper45/tezzKid_bot) 
 Thanks To His Or Her Owner For This Beautifull Bot
