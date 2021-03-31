@@ -2,7 +2,7 @@
 # Hazel
 
 
-##DEPLOY❤
+## DEPLOY❤
 
   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kidiloskahyper45/tezzKid_bot.git)
  modular Telegram Python bot running on python3 with a sqlalchemy database and an entirely themed persona to make Saitama suitable for Anime and Manga group chats. 
@@ -14,15 +14,6 @@ The Support group can be reached out to at [Hazel Support](https://t.me/HazelSup
 
 News channel as at [Hazel](https://t.me/HazelSupport) 
 
-## How to setup/deploy.
-
-
- - 
-  <summary>Steps to deploy on Heroku !! </summary>
-
-
-
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kidiloskahyper45/tezzaKid_bot.git)
 
 
 ## Credits
