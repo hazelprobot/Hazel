@@ -4,7 +4,7 @@
 
 ## DEPLOY❤
 
-  [![Deploy]([![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hazelprobot/Hazel.git)
+  [![Deploy][![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hazelprobot/Hazel.git)
  modular Telegram Python bot running on python3 with a sqlalchemy database and an entirely themed persona to make Saitama suitable for Anime and Manga group chats. 
 
 Can be found on telegram as [Hazel](https://t.me/Misstezza_bot)😄
