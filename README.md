@@ -7,10 +7,10 @@
   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hazelprobot/Hazel.git)
  modular Telegram Python bot running on python3 with a sqlalchemy database and an entirely themed persona to make Saitama suitable for Anime and Manga group chats. 
 
-Can be found on telegram as [Hazel](https://t.me/Misstezza_bot)😄
+Can be found on telegram as [Hazel](https://t.me/Miss_HazelBot)😄
 
 
-The Support group can be reached out to at [Hazel Support](https://t.me/HazelSupport), where you can ask for help about [Hazel](https://t.me/Miss_HazelBot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [Hazel Support](https://t.me/HazelSupport), where you can ask for help Or credits about [Hazel](https://t.me/Miss_HazelBot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 News channel as at [Hazel](https://t.me/HazelSupport) 
 
